@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Ramsay</string>
+    <string name="shareButton">Share</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="recipes">Recipes</string>
+    <string name="recipeHistory">Recipe History</string>
+    <string name="recipeSearchButton">Recipe Search</string>
+    <string name="settings">Settings</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="favorite" />
+    <string name="menu_settings">Settings</string>
+    <string name="RecipeSearch">shoppinglist</string>
+    <string name="titlelabel">"Title: "</string>
+    <string name="ingredientslabel">"Ingredients:"</string>
+    <string name="directionslabel">"Directions:"</string>
+
+
+        <string name="hello_world">Hello world!</string>
+        <string name="On_Off">ON/OFF</string>
+    <string name="title_activity_request" />
+    <string-array name="Strings">
+            <item >Chicken Alfredo</item>
+            <item >Pancakes</item>
+            <item >Carne Asada Tacos</item>
+            <item >Cheese Burger</item>
+        </string-array>
+    </resources>
+
